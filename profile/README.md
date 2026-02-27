@@ -1,69 +1,79 @@
 # 🚀 AWS Cloud Club LPU
 
 <p align="center">
-  <b>Build • Deploy • Scale</b><br/>
-  Student-led cloud engineering community at Lovely Professional University
+  <b>Build • Deploy • Scale • Contribute</b><br/>
+  Student-led Cloud & Open Source Engineering Community at Lovely Professional University
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Community-FF9900?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Student%20Led-Community-blue" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-1f6feb" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-success" />
-  <img src="https://img.shields.io/badge/Open%20Source-Welcome-brightgreen" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Build-With%20Real%20Projects-success" />
 </p>
 
 ---
 
 ## ☁️ About Us
 
-**AWS Cloud Club LPU** is the official student cloud computing community at **Lovely Professional University (India)**.
+**AWS Cloud Club LPU** is the official student cloud computing and open-source engineering community at **Lovely Professional University (India)**.
 
-We help students learn, build, and grow in cloud technologies through:
+We go beyond learning — we **build real systems together**.
 
-- 🧠 Structured AWS learning paths
-- ⚙️ Hands-on cloud projects & labs
-- 🚀 Hackathons & technical events
-- 🤝 Industry mentorship & collaboration
-- 🏗️ Real-world system building
+Our community helps students gain practical engineering experience through:
 
-Our mission is simple:
+- 🧠 Structured AWS & cloud learning paths  
+- ⚙️ Real-world open source projects  
+- 🚀 Production-style system development  
+- 🤝 Collaborative engineering workflows  
+- 🏗️ Hands-on backend, frontend & cloud architecture
 
-> Train students to think like cloud engineers — not just learners.
+Our mission:
+
+> Train students to think and work like real engineers — by building in public.
+
+---
+
+## 🧭 Engineering Workflow
+
+We organize development using structured issue tracking.
+
+### Issue Prefix Guide
+
+- **[UI]** → Visual interfaces and frontend design
+- **[AUTH]** → Authentication & authorization systems
+- **[QUIZ]** → Quiz platform features
+- **[CORE]** → Shared infrastructure, architecture, and cross-system logic
+
+This helps contributors quickly understand the scope of work.
+
+---
+
+## 🌍 Open Source Initiative
+
+We actively develop and maintain open-source platforms built by students, for students.
+
+Contributors can:
+- Work on real production-style repositories
+- Learn collaborative GitHub workflows
+- Contribute to frontend, backend, and cloud infrastructure
+- Gain practical development experience beyond coursework
+
+No prior open-source experience required — start small and grow.
 
 ---
 
 ## 🛰️ Mission Focus
 
 - AWS Cloud Computing
-- Cloud Architecture
+- Cloud Architecture & Distributed Systems
 - DevOps & Automation
+- Backend & API Engineering
+- Modern Web Development
 - Serverless Applications
 - Infrastructure as Code
 - Open Source Collaboration
-
----
-
-## 📦 What You'll Find Here
-
-This organization hosts projects built and maintained by AWS Cloud Club members:
-
-- 🌐 Club Website & Platforms
-- ⚡ Event Management Systems
-- ☁️ AWS Learning Resources
-- 🧪 Experimental Cloud Projects
-- 📚 Documentation & Guides
-
----
-
-## 👩‍🚀 Join the Mission
-
-Want to contribute or learn with us?
-
-- 🌍 Website: https://awslpu.in
-- 📸 Instagram: https://instagram.com/awscloudcommunity.lpu
-- 💼 LinkedIn: https://linkedin.com/company/aws-cloud-community-lpu
-- 📧 Email: club@awslpu.in
 
 ---
 
@@ -71,14 +81,26 @@ Want to contribute or learn with us?
 
 We welcome contributors of all experience levels.
 
-Look for issues labeled:
+To start:
 
-- `good first mission`
-- `help wanted`
-- `documentation`
-- `enhancement`
+1. Browse project boards or open issues
+2. Pick a task marked:
+   - `good first mission`
+   - `help wanted`
+   - `enhancement`
+3. Comment on the issue to get assigned
+4. Submit your Pull Request 🚀
 
 Start small. Learn fast. Build together.
+
+---
+
+## 👩‍🚀 Join the Mission
+
+- 🌍 Website: https://awslpu.in
+- 📸 Instagram: https://instagram.com/awscloudcommunity.lpu
+- 💼 LinkedIn: https://www.linkedin.com/company/awscloudclublpu
+- 📧 Email: awscloudcommunity.lpu@gmail.com
 
 ---
 
@@ -88,10 +110,10 @@ Start small. Learn fast. Build together.
 - Share knowledge openly
 - Support beginners
 - Build production mindset early
-- Grow together as engineers
+- Collaborate like real engineering teams
 
 ---
 
 <p align="center">
-  <b>AWS Cloud Club LPU — Operating Cloud Missions Since 2022</b>
+  <b>AWS Cloud Club LPU — Building Cloud & Open Source Engineers Since 2022</b>
 </p>
