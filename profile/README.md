@@ -1,4 +1,6 @@
-# 🚀 AWS Cloud Club LPU
+<h1 align="center">
+# 🚀 AWS Student Builder Group<br/> at t Lovely Professional University
+</h1>
 
 <p align="center">
   <b>Build • Deploy • Scale • Contribute</b><br/>
@@ -17,7 +19,7 @@
 
 ## ☁️ About Us
 
-**AWS Cloud Club LPU** is the official student cloud computing and open-source engineering community at **Lovely Professional University (India)**.
+**AWS LPU** is the official student cloud computing and open-source engineering community at **Lovely Professional University (India)**.
 
 We go beyond learning — we **build real systems together**.
 
@@ -97,11 +99,10 @@ Start small. Learn fast. Build together.
 
 ## 👩‍🚀 Join the Mission
 
-- 🌍 Website: https://awslpu.in
-- 📸 Instagram: https://instagram.com/awscloudcommunity.lpu
-- 💼 LinkedIn: https://www.linkedin.com/company/awscloudclublpu
-- 📧 Email: awscloudcommunity.lpu@gmail.com
-
+- 🌍 Website: [https://awslpu.in](https://awslpu.in)
+- 📸 Instagram: [https://instagram.com/awsbuilders.lpu](https://instagram.com/awsbuilders.lpu)
+- 💼 LinkedIn: [https://www.linkedin.com/company/awsbuilderslpu](https://www.linkedin.com/company/awsbuilderslpu)
+- 📧 Email: awsbuilders.lpu@gmail.com
 ---
 
 ## 🧭 Community Values
@@ -115,5 +116,5 @@ Start small. Learn fast. Build together.
 ---
 
 <p align="center">
-  <b>AWS Cloud Club LPU — Building Cloud & Open Source Engineers Since 2022</b>
+  <b>AWS Student Builder Group at Lovely Professional University <br/> Building Cloud & Open Source Engineers Since 2022</b>
 </p>
