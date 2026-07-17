@@ -1,5 +1,5 @@
 <h1 align="center">
-# 🚀 AWS Student Builder Group<br/> at t Lovely Professional University
+# 🚀 AWS Student Builder Group<br/> at Lovely Professional University
 </h1>
 
 <p align="center">
